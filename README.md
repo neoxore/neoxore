@@ -18,8 +18,7 @@ Every project I work on is crafted from the ground up—starting with architectu
 
 ### 🧰 Languages and Tools
 
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,nodejs,mongodb,gitlab,raspberrypi,arduino,nextjs,tailwind" /><br>
-<img align="left" width="30px" style="padding-right:10px;" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg](https://skillicons.dev/icons?i=py,fastapi,git,postgres,ubuntu,redis,docker)" /><br />
+<img src="https://skillicons.dev/icons?i=py,fastapi,git,postgres,ubuntu,redis,docker" />
 
 #
 
