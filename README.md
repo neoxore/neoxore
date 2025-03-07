@@ -1,12 +1,15 @@
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
-# 🥷 Neoxore 
+
+<a href="https://github.com/neoxore/neoxore/blob/main/AnimeLiveHatsuneMikuBackground-ezgif.com-video-to-gif-converter.gif">
+  <img src="https://github.com/neoxore/neoxore/blob/main/AnimeLiveHatsuneMikuBackground-ezgif.com-video-to-gif-converter.gif" alt="Hatsune Miku GIF" style="width:auto; height:auto"/>
+</a>
+
+# <h1 align="left">🥷 <b>Neoxore</b></h1>
 
 **`Backend Developer | Problem Solver | Tech Enthusiast`**  
 
 I'm a backend developer passionate about building scalable and efficient systems.  
 I love solving complex problems with clean and maintainable code.  
 Every project I work on is crafted from the ground up—starting with architecture and planning, followed by development and optimization.  
-
 
 <p align="left">
     <a href="mailto:traddelexx@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" /></a> 
@@ -23,3 +26,4 @@ Every project I work on is crafted from the ground up—starting with architectu
 #
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
+
