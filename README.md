@@ -1,8 +1,4 @@
 
-<a href="https://github.com/neoxore/neoxore/blob/main/AnimeLiveHatsuneMikuBackground-ezgif.com-video-to-gif-converter.gif">
-  <img src="https://github.com/neoxore/neoxore/blob/main/AnimeLiveHatsuneMikuBackground-ezgif.com-video-to-gif-converter.gif" alt="Hatsune Miku GIF" style="width:auto; height:auto"/>
-</a>
-
 # <h1 align="left">🥷 <b>Neoxore</b></h1>
 
 **`Backend Developer | Problem Solver | Tech Enthusiast`**  
@@ -24,6 +20,7 @@ Every project I work on is crafted from the ground up—starting with architectu
 <img src="https://skillicons.dev/icons?i=py,fastapi,git,postgres,ubuntu,redis,docker" />
 
 #
-
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
-
+<a href="https://github.com/neoxore/neoxore/blob/main/AnimeLiveHatsuneMikuBackground-ezgif.com-video-to-gif-converter.gif">
+  <img src="https://github.com/neoxore/neoxore/blob/main/AnimeLiveHatsuneMikuBackground-ezgif.com-video-to-gif-converter.gif" alt="Hatsune Miku GIF" style="width:auto; height:auto"/>
+</a>
